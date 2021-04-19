@@ -23,3 +23,11 @@
 hs_err_pid*
 
 .idea
+
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+/target/scala-2.13/classes/
+/project/
+/.bsp/
